@@ -1,4 +1,4 @@
-GoogleEarthEnginePy
-landsat_ts_1frame_sec.gif
-landsat_ts_3fsec.gif
-landsat_ts_3fs_NIR-R-G.gif
+GeoPython*
+eu_poly*
+data/*
+.ipynb*
